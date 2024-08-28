@@ -9,8 +9,8 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-jaiswal-179&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-jaiswal-179" /> </p>
-- 🔭 I’m currently working on **YoutubeClone**
 <img align="right" height="200px" width="300px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+- 🔭 I’m currently working on **YoutubeClone**
 
 - 🌱 I’m currently learning **reactjs, nodejs and also java**
 - 🎯 My Portfolio link is [Ritik-Jaiswal-Portfolio](https://ritikjaiswal-portfolio.netlify.app)
